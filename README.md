@@ -1,4 +1,0 @@
-GokuSanZ.github.io
-==================
-
-WebSite
