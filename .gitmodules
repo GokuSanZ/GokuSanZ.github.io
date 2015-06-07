@@ -1,3 +1,0 @@
-[submodule "htaccess"]
-	path = htaccess
-	url = git://github.com/phanan/htaccess.git
